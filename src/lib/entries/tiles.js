@@ -24,4 +24,13 @@ export default [
                 author: 'Fabian Rauch',
                 github: 'https://github.com/caitoor/ig3_prog3_lexikon',
         },
+
+        {
+                title: 'Grid',
+                folder: 'Grid_Svelte',
+                description: 'Mit CSS Grid erzeugt ihr Gestaltungsraster, indem Zeilen und Spalten für einen Bereich definiert werden. Elemente werden dann den Rasterzellen zugewiesen, wodurch sehr interessante Layouts möglich sind.',
+                tags: ['CSS', 'Layout', 'Websites'],
+                author: 'Lea Haferbier',
+                github: 'https://github.com/LeaHaferbier/Grid.git',
+        },
 ];
